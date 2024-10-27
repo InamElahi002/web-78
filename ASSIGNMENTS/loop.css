@@ -1,0 +1,23 @@
+.abc
+*{
+    background-color: red;
+    color: coral;
+    width:40%;
+    border: 20px inset green;
+    border-radius: 20 px;
+    outline: 4px wheat solid;
+    font-size: medium;
+    font-family: cursive;
+    font-weight: 200px;
+    font-style: oblique;
+    text-align: justify;
+    text-transform: uppercase;
+    overflow: visible;
+
+}
+spam{
+    visibility: visible;
+}
+
+
+}
